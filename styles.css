@@ -67,7 +67,7 @@ button{
 }
 
 #coin {
-  transition: -webkit-transform 1s ease-in;
+  -webkit-transform: 1s ease-in;
   -webkit-transform-style: preserve-3d;
 }
 
